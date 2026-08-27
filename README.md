@@ -26,6 +26,6 @@ El sistema incorpora un menú de selección de hardware (a través de un DipSwit
 
 ## Demostración en Video
 Puedes ver el prototipo en funcionamiento a través del siguiente enlace:
-[Ver demostración en YouTube](https://youtube.com/shorts/RzOltCBL1s8?si=hA6UC8u_4JbiyqMI)
+[Ver demostración en YouTube](https://youtube.com/shorts/krF-mAkPn3M?si=GNYOYnFm37qIyDx-)
 
 *(Nota: Este repositorio documenta un trabajo escolar recuperado; el material refleja las metodologías y herramientas utilizadas en el momento de su creación).*
